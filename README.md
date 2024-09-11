@@ -35,8 +35,8 @@ This report helps administrators monitor site usage, manage storage effectively,
 1. Open SPO Site Report.pbit file
 2. Once you are prompted, provide your SPO admin url (https://<tenant>-admin.sharepoint.com)
    
-![screenshot](/images/spoadmin.png)
+![screenshot](/images/SPOadmin.png)
 
 4. Once you are prompted for authentication, choose Microsoft account and authenticate with your M365 account
 
-![screenshot](/images/spoaccount.png)
+![screenshot](/images/SPOaccount.png)
