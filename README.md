@@ -26,3 +26,17 @@ This report helps administrators monitor site usage, manage storage effectively,
 5. Slicers
     - Site type
     - Created date
+## Prerequisites
+1.  Power BI Desktop (latest version)
+2.	SP Admin Permissions
+3.	Access to SPO Admin site (https://<tenant>-admin.sharepoint.com)
+4.	Download SPO Site Report Power BI template - [LINK](https://github.com/BojanBuhac/M365-SharePoint-Sites-Report/blob/main/SPO%20Site%20Report.pbit)
+## Power BI Template configuration
+1. Open SPO Site Report.pbit file
+2. Once you are prompted, provide your SPO admin url (https://<tenant>-admin.sharepoint.com)
+   
+![screenshot](/images/spoadmin.png)
+
+4. Once you are prompted for authentication, choose Microsoft account and authenticate with your M365 account
+
+![screenshot](/images/spoaccount.png)
