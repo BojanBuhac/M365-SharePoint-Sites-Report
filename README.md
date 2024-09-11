@@ -33,7 +33,7 @@ This report helps administrators monitor site usage, manage storage effectively,
 4.	Download SPO Site Report Power BI template - [LINK](https://github.com/BojanBuhac/M365-SharePoint-Sites-Report/blob/main/SPO%20Site%20Report.pbit)
 ## Power BI Template configuration
 1. Open SPO Site Report.pbit file
-2. Once you are prompted, provide your SPO admin url (https://<tenant>-admin.sharepoint.com)
+2. Once you are prompted, provide your SPO admin url (https://tenant-admin.sharepoint.com)
    
 ![screenshot](/images/SPOadmin.png)
 
