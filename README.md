@@ -29,7 +29,7 @@ This report helps administrators monitor site usage, manage storage effectively,
 ## Prerequisites
 1.  Power BI Desktop (latest version)
 2.	SP Admin Permissions
-3.	Access to SPO Admin site (https://<tenant>-admin.sharepoint.com)
+3.	Access to SPO Admin site (https://tenant-admin.sharepoint.com)
 4.	Download SPO Site Report Power BI template - [LINK](https://github.com/BojanBuhac/M365-SharePoint-Sites-Report/blob/main/SPO%20Site%20Report.pbit)
 ## Power BI Template configuration
 1. Open SPO Site Report.pbit file
