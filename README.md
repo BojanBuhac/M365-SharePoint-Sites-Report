@@ -1,7 +1,7 @@
 ## M365-SharePoint-Sites-Report
 Comprehensive overview of all SharePoint Online sites within your organization.
 ### Overall report
-![screenshot](/images/banner2.png)
+![screenshot](/images/banner3.png)
 This report provides a comprehensive overview of all SharePoint Online sites within your organization. It includes the following key details for each site:
 1. **Site Type:** Identifies whether the site is a Team site, Communication site, or another type.
 2. **Storage Used:** Displays the amount of storage currently utilized by the site.
