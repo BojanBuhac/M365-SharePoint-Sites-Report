@@ -14,7 +14,9 @@ This report helps administrators monitor site usage, manage storage effectively,
 1. Top 10 team sites by size
 2. Top 10 sites by size
 3. Top 10 sites by number of files
-4. Comprahensive table of:
+4. Total sites count
+5. Search site by name
+6. Comprahensive table of:
     - Site names
     - Site URLs
     - Owner Names
@@ -23,7 +25,7 @@ This report helps administrators monitor site usage, manage storage effectively,
     - Storage used in MB
     - Storage used in %
     - Number of files
-5. Slicers
+7. Slicers
     - Site type
     - Created date
 ## Prerequisites
