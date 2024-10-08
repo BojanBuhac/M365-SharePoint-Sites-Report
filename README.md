@@ -21,6 +21,7 @@ This report helps administrators monitor site usage, manage storage effectively,
     - Site URLs
     - Owner Names
     - Owner Emails
+    - Latest activity
     - Storage Quota
     - Storage used in MB
     - Storage used in %
