@@ -19,6 +19,7 @@ This report helps administrators monitor site usage, manage storage effectively,
 6. Comprahensive table of:
     - Site names
     - Site URLs
+    - Connected to Hub
     - Owner Names
     - Owner Emails
     - Latest activity
